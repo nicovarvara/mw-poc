@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <command>
    <a>
-      <execute>write-host -ForegroundColor Cyan "$(Get-Date -Format s) Download Craddle test success!`n"</execute>
+      <execute>write-host -ForegroundColor Cyan "$(Get-Date -Format s) Download Craddle test successss!`n"</execute>
    </a>
   </command>
